@@ -3,7 +3,7 @@
 
 **I'm Prbhanshu, a passionate coder and tech enthusiast on a journey to explore the vast realms of technology. I find joy in exploring different technologies and bringing ideas to life. This corner of the internet serves as a hub for my experiments.**
 
- [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prabhanshu-s)
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhanshu-s)
  
 
 
